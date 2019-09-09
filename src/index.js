@@ -52,6 +52,10 @@ class Counter extends React.Component {
         var now = new Date();
         var elapsed = Math.abs(now.getTime() - value.getTime());
         var diffDays = Math.floor(elapsed / (1000 * 60 * 60 * 24));
+        if (diffDays.isNaN())
+        {
+            reset();
+        }
         return (
             <span class="padLeft">
                 {diffDays} Days
