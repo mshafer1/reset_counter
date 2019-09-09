@@ -1,7 +1,7 @@
 {
   "name": "reset_counter",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "/reset_counter/",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",

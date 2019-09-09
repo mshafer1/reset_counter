@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.050e568c.chunk.css",
-    "main.js": "./static/js/main.892667d7.chunk.js",
-    "main.js.map": "./static/js/main.892667d7.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.008b264b.js",
-    "runtime~main.js.map": "./static/js/runtime~main.008b264b.js.map",
-    "static/js/2.c961abf6.chunk.js": "./static/js/2.c961abf6.chunk.js",
-    "static/js/2.c961abf6.chunk.js.map": "./static/js/2.c961abf6.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.31a1c6a2dde37c9c209c17b397b82b98.js": "./precache-manifest.31a1c6a2dde37c9c209c17b397b82b98.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.050e568c.chunk.css.map": "./static/css/main.050e568c.chunk.css.map"
+    "main.css": "/reset_counter/static/css/main.050e568c.chunk.css",
+    "main.js": "/reset_counter/static/js/main.892667d7.chunk.js",
+    "main.js.map": "/reset_counter/static/js/main.892667d7.chunk.js.map",
+    "runtime~main.js": "/reset_counter/static/js/runtime~main.27074841.js",
+    "runtime~main.js.map": "/reset_counter/static/js/runtime~main.27074841.js.map",
+    "static/js/2.c961abf6.chunk.js": "/reset_counter/static/js/2.c961abf6.chunk.js",
+    "static/js/2.c961abf6.chunk.js.map": "/reset_counter/static/js/2.c961abf6.chunk.js.map",
+    "index.html": "/reset_counter/index.html",
+    "precache-manifest.b36d4f9e8f62131dcb0b577d58aab65b.js": "/reset_counter/precache-manifest.b36d4f9e8f62131dcb0b577d58aab65b.js",
+    "service-worker.js": "/reset_counter/service-worker.js",
+    "static/css/main.050e568c.chunk.css.map": "/reset_counter/static/css/main.050e568c.chunk.css.map"
   }
 }
