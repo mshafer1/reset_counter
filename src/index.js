@@ -69,7 +69,7 @@ class Counter extends React.Component {
 ReactDOM.render(
     <div class="sign">
         <Counter value={0}/>
-        <p>Since someone reset this sign.</p>
+        <p>Since you reset this sign.</p>
         < ResetButton />
     </div>,
     document.getElementById('root')
