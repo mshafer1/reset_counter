@@ -34,7 +34,7 @@ function getCookie(cname) {
 function reset() {
     console.log("Resetting");
     var now = new Date().toUTCString();
-    setCookie('reset', now);
+    setCookie('reset', now, 730); // change from session cookie to two years from now
     window.location.reload(); 
 }
 
