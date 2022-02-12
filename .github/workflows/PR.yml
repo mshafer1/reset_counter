@@ -12,4 +12,3 @@ jobs:
         with:
           github-token: ${{ secrets.mytoken }}
           command: squash and merge
-          github-token: ${{ secrets.mytoken }}
